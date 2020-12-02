@@ -1,4 +1,6 @@
-# UFES
+# Dataset
+
+## Land cover, landscape metrics and typology of European cities for Urban Forest Ecosystem Services (UFES) evaluation
 
 The data refers to the paper "Urban Forests Ecosystems in Europe: Types and Ranking of Cities".
 
