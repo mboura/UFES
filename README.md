@@ -3,6 +3,6 @@
 Authors: *Marlène Boura, Geoffrey Caruso*
 
 
-- The dataset: *Land cover, landscape metrics and typology of European cities for Urban Forest Ecosystem Services (UFES) evaluation* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4301952.svg)](https://doi.org/10.5281/zenodo.4301952)
+- **Dataset**: *Land cover, landscape metrics and typology of European cities for Urban Forest Ecosystem Services (UFES) evaluation* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4301952.svg)](https://doi.org/10.5281/zenodo.4301952)
 
-- The script will be soon available
+- **Script**: it will be available soon
