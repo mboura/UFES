@@ -15,4 +15,4 @@ The datasets are a csv file (`Metrics.csv`) and a shapefile (`UFES.shp`) of poly
 
 - `UFES.shp` attributes' are the following: FUA codes, country name, main city name, clusters and groups of FUAs resulting from the hierarchical cluster analysis (HCA), the R color codes used in the article, the five UFES budget indexes as well as an aggregated global UFES index for each FUA.
 
-- `Metrics.csv` contains the FUA codes, the land cover and landscape metrics, after standardisation, used in the HCA.
+- `Metrics.csv` contains the FUA codes, the land cover and landscape metrics used in the HCA.
